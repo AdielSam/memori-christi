@@ -1,0 +1,148 @@
+{
+  "businessPlan": "## Business Overview\nMemori Christi\n\n## Customer Profile\nTarget customers identified from business context\n\n### Pain Points\n- Customers need efficient, personalized support for their goals\n\n## Key Problems\n- **Primary Need**: Customers need efficient, personalized support for their goals\n\n## Customer Journey\n**USER GOALS**\nUsers want to rescue their scattered digital memories—photos, videos, and notes—from the chaos of multiple platforms and transform them into beautiful, accessible, and shareable digital albums. They are solving the problem of digital fragmentation and the fear of losing precious moments, aspiring to preserve their legacy and easily reminisce with loved ones.\n\n**QUALIFYING QUESTIONS**\n\"What brings you to Memori Christi today?\"\n1. I have a specific event or trip I want to compile into an album right now.\n2. My photos and videos are scattered everywhere and I just want to consolidate them.\n3. I'm looking for a beautiful way to share and preserve memories with my family.\n\n**JOURNEY NARRATIVE**\nThe user typically arrives feeling overwhelmed by their scattered digital footprint across phones, clouds, and social media. The AI agent warmly welcomes them and asks a few clarifying questions to understand if they want to rescue lost memories, document a recent life event, or share a legacy. Once the goal is clear, the agent guides the user to connect their various storage platforms. The agent then analyzes the uploaded content, using AI to cluster photos, videos, and notes by event, date, or sentiment, creating initial draft albums. The user reviews these drafts, tweaking layouts and adding personal touches with the agent's conversational help. The agent learns from the user's aesthetic preferences—whether they prefer minimalist layouts, rich color stories, or chronological timelines—to refine future recommendations. As a digital album comes to life, the agent suggests physical keepsakes, like custom-printed albums or digital artwork, matching the user's style. Throughout this journey, the agent acts as a personal archivist and creative partner, turning a daunting organizational task into a delightful trip down memory lane.\n\n**APP SUPPORT MAP**\nCreation tools help users seamlessly stitch together disparate media into cohesive, aesthetically pleasing digital albums, acting as the core canvas for their memories. Automation tools work quietly in the background to auto-sort and categorize future uploads, reducing manual effort and keeping the archive pristine. When a user expresses pride in a finished digital album or a desire to memorialize a specific milestone, the agent should recommend the marketplace tools to transition their digital creation into custom-printed frames and heirloom-quality physical albums.\n\n**COMMUNITY OPPORTUNITIES**\nUsers could benefit from a shared template gallery where they can discover beautiful album layouts created by others for specific life events like weddings, graduations, or travel. Memori Christi could harness this shared intelligence by allowing users to submit their favorite themes, creating a collaborative inspiration hub that helps others design their memories faster and with greater creativity.\n\n**MONETIZATION HOOK**\nThe first \"aha\" moment happens when the AI takes hundreds of scattered, random photos from a chaotic camera roll and instantly generates a breathtaking, chronological digital album of a recent family vacation, complete with synced notes. The initial payment is triggered by the immediate emotional relief and joy of seeing a messy digital life transformed into a beautiful story in seconds, whereas the ongoing subscription is driven by the peace of mind that comes from automated, continuous background organization and secure cloud preservation. The free tier should allow users to consolidate a limited number of memories and auto-generate one or two draft albums to experience this magic. Behind the paywall sits unlimited storage, high-resolution exporting, advanced AI auto-curation for infinite albums, and exclusive discounts on the physical marketplace for printed heirlooms. Right before someone decides to pay, they must experience the moment of viewing their first fully rendered digital album, clicking \"share with family,\" and realizing they want this level of effortless preservation for all their future memories.\n\n## AI Tool Suite\n### Memory Stitches\n**Purpose**: Transform scattered photos, videos, and notes into cohesive chronological digital albums with AI-powered auto-curation.\n**User Story**: \"I want to see my messy digital life transform into a beautiful, shareable story without spending hours organizing it myself.\"\n\n---\n*Generated on 7/7/2026*\n",
+  "workspaceId": "d44d9e4f-6d72-4183-b99d-7c48309a23f5",
+  "configId": 226048,
+  "name": "Memori Christi",
+  "tagline": "Where memories become heirlooms.",
+  "logoUrl": "https://storage.googleapis.com/audos-images/brand-icons/e533f1aa-776f-4918-b61d-3c3a50d58633.mono.png",
+  "iconUrl": "https://storage.googleapis.com/audos-images/brand-icons/e533f1aa-776f-4918-b61d-3c3a50d58633.mono.png",
+  "logoOnDarkUrl": "https://storage.googleapis.com/audos-images/brand-icons/e533f1aa-776f-4918-b61d-3c3a50d58633.mono.png",
+  "colors": {
+    "primary": "#ffb8c6",
+    "highlight": "#ff6c66",
+    "contrast": "#000000",
+    "secondary": "#ff6c66",
+    "accent": "#000000",
+    "primaryScale": {
+      "50": "#fff9fa",
+      "100": "#fff4f6",
+      "200": "#ffebef",
+      "500": "#eba9b6",
+      "600": "#ffb8c6",
+      "700": "#d69ba6",
+      "900": "#a87983"
+    },
+    "highlightScale": {
+      "50": "#fff3f3",
+      "100": "#ffe7e7",
+      "200": "#ffd6d4",
+      "500": "#eb635e",
+      "600": "#ff6c66",
+      "700": "#d65b56",
+      "900": "#a84743"
+    },
+    "surfaces": {
+      "page": "#fff1f4",
+      "pageAlt": "#e6e6e6",
+      "gradientFrom": "#fff1f4",
+      "gradientVia": "#e6e6e6",
+      "gradientTo": "#fff5f4",
+      "card": "#ffffff",
+      "cardHover": "#fffcfd",
+      "panel": "#ffffff",
+      "panelStrong": "#ffffff",
+      "muted": "#fff6f8",
+      "accentSoft": "#fff0f0",
+      "border": "#ffeff2",
+      "borderStrong": "#ffe7ec"
+    },
+    "text": {
+      "primary": "#473437",
+      "secondary": "#8a636b",
+      "brand": "#473437",
+      "accent": "#471e1d",
+      "muted": "#6b7280",
+      "onPrimary": "#000000",
+      "onHighlight": "#000000",
+      "onContrast": "#ffb8c6"
+    },
+    "semantic": {
+      "success": "#16a34a",
+      "warning": "#d97706",
+      "danger": "#dc2626"
+    },
+    "shell": {
+      "buttonText": "#000000",
+      "accentButtonText": "#000000",
+      "dockText": "#000000",
+      "icon": "#471e1d",
+      "shadow": "#ffeaee",
+      "shadowStrong": "#ffe0e6"
+    }
+  },
+  "palette": {
+    "primary": "#ffb8c6",
+    "highlight": "#ff6c66",
+    "contrast": "#000000",
+    "secondary": "#ff6c66",
+    "accent": "#000000",
+    "primaryScale": {
+      "50": "#fff9fa",
+      "100": "#fff4f6",
+      "200": "#ffebef",
+      "500": "#eba9b6",
+      "600": "#ffb8c6",
+      "700": "#d69ba6",
+      "900": "#a87983"
+    },
+    "highlightScale": {
+      "50": "#fff3f3",
+      "100": "#ffe7e7",
+      "200": "#ffd6d4",
+      "500": "#eb635e",
+      "600": "#ff6c66",
+      "700": "#d65b56",
+      "900": "#a84743"
+    },
+    "surfaces": {
+      "page": "#fff1f4",
+      "pageAlt": "#e6e6e6",
+      "gradientFrom": "#fff1f4",
+      "gradientVia": "#e6e6e6",
+      "gradientTo": "#fff5f4",
+      "card": "#ffffff",
+      "cardHover": "#fffcfd",
+      "panel": "#ffffff",
+      "panelStrong": "#ffffff",
+      "muted": "#fff6f8",
+      "accentSoft": "#fff0f0",
+      "border": "#ffeff2",
+      "borderStrong": "#ffe7ec"
+    },
+    "text": {
+      "primary": "#473437",
+      "secondary": "#8a636b",
+      "brand": "#473437",
+      "accent": "#471e1d",
+      "muted": "#6b7280",
+      "onPrimary": "#000000",
+      "onHighlight": "#000000",
+      "onContrast": "#ffb8c6"
+    },
+    "semantic": {
+      "success": "#16a34a",
+      "warning": "#d97706",
+      "danger": "#dc2626"
+    },
+    "shell": {
+      "buttonText": "#000000",
+      "accentButtonText": "#000000",
+      "dockText": "#000000",
+      "icon": "#471e1d",
+      "shadow": "#ffeaee",
+      "shadowStrong": "#ffe0e6"
+    }
+  },
+  "pickedBrandColor": "#ffb8c6",
+  "typography": {
+    "font": "Playfair Display",
+    "category": "serif",
+    "weights": [
+      400,
+      900
+    ],
+    "headingFont": "Playfair Display",
+    "bodyFont": "Space Grotesk"
+  },
+  "heroVideoUrl": "https://storage.googleapis.com/audos-images/videos/scene_group_1783428334320_stitched.mp4"
+}
